@@ -1,3 +1,5 @@
+Minhas anotações da vídeoaula recomendada pelo professor.
+
 Date
 Ela e representada por milissegundos desde a Era Unix que comecou em 1 de janeiro de 1970 as 00:00:00 do UTC (sistema de referencia que calcula fuso horario do mundo inteiro)
 
